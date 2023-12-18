@@ -1,0 +1,81 @@
+.modal-content {
+    background-color: rgba(0, 0, 0, 0.5);
+    bottom: 0;
+    left: 0;
+    overflow-x: hidden;
+    overflow-y: auto;
+    position: fixed;
+    right: 0;
+    top: 0;
+    transition: 0.2s linear;
+    z-index: 1050;
+  
+  
+    /* height: auto; */
+  }
+  .modal-inner {
+    align-items: center;
+    height: auto;
+    
+    display: flex;
+    margin: auto;
+  }
+  .close-icon {
+    font-size: 35px;
+    margin-left: 1150px;
+    position: relative;
+    cursor: pointer;
+  }
+  .korzina-card {
+    margin-left: 72px;
+    background-color: aliceblue;
+    margin-top: 113px;
+    width: 1214px;
+    height: 446px;
+    border-radius: 10px;
+    text-align: center;
+    display: block;
+  }
+  .korzina-paragraph {
+    font-size: 1.5rem;
+    line-height: 2rem;
+    font-weight: 500;
+    font-family: Roboto, sans-serif;
+    left: 220px;
+    bottom: 120px;
+    position: relative;
+  }
+  .basket-icon {
+    font-size: 80px;
+    color: gray;
+  }
+  .text-1 {
+    position: relative;
+    top: 10px;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: Roboto, sans-serif;
+  }
+  .text-2 {
+    position: relative;
+    top: 16px;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: Roboto, sans-serif;
+  }
+  .buy-button {
+    border: 2px solid #fbc100;
+    background-color: aliceblue;
+    border-radius: 6px;
+    box-sizing: border-box;
+    color: #333;
+    font-size: 16px;
+    font-weight: 500;
+    height: 44px;
+    letter-spacing: 0.4px;
+    line-height: 140%;
+    margin-top: 32px;
+    padding: 0 20px;
+    cursor: pointer;
+  }
+  
