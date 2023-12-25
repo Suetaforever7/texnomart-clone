@@ -1,9 +1,9 @@
 import React from "react";
 import DesktopHeader from "./Desktop/Header";
 import MobileHeader from "./Mobile/MobileHeader";
-import BannerCarusel from "../Carusel/BannerCarusel/BannerCarusel";
 import BrandCarusel from "../Carusel/BrandCarusel/BrandCarusel";
-function index() {
+import BannerCarusel from "../Carusel/BannerCarusel/BannerCarusel";
+function Main() {
   return (
     <div>
       <DesktopHeader />
@@ -14,4 +14,4 @@ function index() {
   );
 }
 
-export default index;
+export default Main;

@@ -7,9 +7,10 @@ import { FaRegHeart } from "react-icons/fa6";
 import { SlBasket } from "react-icons/sl";
 import { IoEarthOutline } from "react-icons/io5";
 import LoginCard from "../../Card/LoginCard/LoginCard";
-import Korzina from "../../Card/KorzinaCard/Korzina";
+import Korzina from "../../Card/KorzinaCard/KorzinaCard"
 import DesktopMenu from "../../Menu/DesktopMenu";
-import Bottomnavigation from "./Bottom-navigation";
+import Bottomnavigation from "../Navigation/Bottom-navigation"
+import Main from "../index";
 // import ProductCarusel from "../../Carusel/ProductCarusel/ProductCarusel";
 function Header() {
   const [open, setOpen] = useState(false);
@@ -106,6 +107,7 @@ function Header() {
       {openKorzina && <Korzina handleFunc={setOpenKorzina} />}
       {openMenu && <DesktopMenu handleFunc={setOpen} />}
     </div>
+    <Main/>
     <Bottomnavigation/>
     </>
   );

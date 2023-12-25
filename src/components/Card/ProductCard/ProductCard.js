@@ -1,9 +1,29 @@
-import React from 'react'
-import "./ProductCard.css"
-function ProductCard() {
+import "./ProductCard.css";
+import { FiShoppingCart } from "react-icons/fi";
+import { CiHeart } from "react-icons/ci";
+import { Link } from "react-router-dom";
+function ProductCard({ img, title, narx, chegirma, kredit, id }) {
   return (
-    <div>ProductCard</div>
-  )
-}
+    <div className="Card_main">
+      <div className="Card">
+        <CiHeart className="heart" />
+        <img src={img} alt="" />
+        <Link to={`product/detail/${id}`}>
+          <p>{title}</p>
+        </Link>
 
-export default ProductCard
+        <p className="y">☆☆☆☆☆</p>
+        <p className="sum">{kredit}</p>
+        <p className="del">
+          <del>{chegirma}</del>
+        </p>
+        <p className="narx">
+          {" "}
+          <strong> {narx}</strong>{" "}
+        </p>
+        <FiShoppingCart className="shop" />
+      </div>
+    </div>
+  );
+}
+export default ProductCard;

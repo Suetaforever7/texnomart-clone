@@ -5,38 +5,21 @@ function Bottomnavigation() {
     <div className="bottoom-navigation">
       <div className="bottom-navigation-container">
         <ul>
-          <li>
-            <a href="#">AКЦИЯЛАР</a>
+          <li>AКЦИЯЛАР</li>
+          <li className="gif">
+            <img
+              src="https://texnomart.uz/_nuxt/img/low_prices_kr.5cabe3a.gif"
+              alt=""
+            />
           </li>
-          <li>
-            <a href="#" className="gif">
-              <img src="https://texnomart.uz/_nuxt/img/low_prices_kr.5cabe3a.gif"></img>
-            </a>
-          </li>
-          <li>
-            <a href="#">Mazzza narxlar!</a>
-          </li>
-          <li>
-            <a href="#">ХАВО СОВУТГИЧЛАР</a>
-          </li>
-          <li>
-            <a href="">СМАРТФОНЛАР</a>
-          </li>
-          <li>
-            <a href="#">МУЗЛАТГИЧЛАР</a>
-          </li>
-          <li>
-            <a href="#">ЧАНГЮТКИЧЛАР</a>
-          </li>
-          <li>
-            <a href="#">НОУТБУКЛАР</a>
-          </li>
-          <li>
-            <a href="#">ТЕЛЕВИЗОРЛАР</a>
-          </li>
-          <li>
-            <a href="#">БАРЧА КАТЕГОРИЯЛАР</a>
-          </li>
+          <li>Mazzza narxlar!</li>
+          <li>ХАВО СОВУТГИЧЛАР</li>
+          <li>СМАРТФОНЛАР</li>
+          <li>МУЗЛАТГИЧЛАР</li>
+          <li>ЧАНГЮТКИЧЛАР</li>
+          <li>НОУТБУКЛАР</li>
+          <li>ТЕЛЕВИЗОРЛАР</li>
+          <li>БАРЧА КАТЕГОРИЯЛАР</li>
         </ul>
       </div>
     </div>
