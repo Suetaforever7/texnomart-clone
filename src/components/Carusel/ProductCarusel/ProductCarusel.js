@@ -1,5 +1,3 @@
-
-
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Navigation, Pagination,  } from "swiper/modules";
 // Import Swiper styles
@@ -10,7 +8,7 @@ import ProductCard from "../../Card/ProductCard/ProductCard";
 
 // import required modules
 
-function ProductCarusel({ title, img }) {
+function ProductCarusel({ title, data}) {
   return (
     <div className="product_main">
       <h3>{title}</h3>
@@ -43,6 +41,7 @@ function ProductCarusel({ title, img }) {
             title={item.title}
             narx={item.price}
             id={item.id}
+            
             />
           </SwiperSlide>
         ))}

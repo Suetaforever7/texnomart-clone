@@ -1,0 +1,230 @@
+[
+    {
+      "id": 1,
+      "name": "Смартфонлар ва Гаджетлар",
+      "icon": "https://mini-io-api.texnomart.uz/catalog/category/small-front-icon/19/a05699c9-17b3-41fb-b5c7-5e0b52db28cd.svg",
+      "submenu": [
+        {
+          "id": 1,
+          "name": "ТЕЛЕФОНЛАР",
+          "submenu": [
+            "Samsung смартфонлари",
+            "Iphone",
+            "HONOR смартфонлари",
+            "Xiaomi смартфонлари",
+            "OPPO Смартфонлари",
+            "TECNO Смартфонлари",
+            "Huawei смартфонлари",
+            "Realme Смартфонлари",
+            "Nothing Phone смартфонлари"
+          ]
+        },
+        {
+          "id": 1,
+          "name": "ГАДЖЕТЛАР",
+          "submenu": [
+            "Тугмали телефонлар",
+            "Радиотелефонлар",
+            "Smart соатлар",
+            "Smart тарози",
+            "Фитнес соати",
+            "Виртуал ҳақиқат кўзойнаклари"
+          ]
+        },
+  
+        {
+          "id": 1,
+          "name": "ТЕЛЕФОН АКСЕССУАРЛАРИ",
+          "submenu": [
+            "Ташқи батареялар",
+            "Смартфонлар учун ушлагичлар",
+            "Қувватлаш қурилмалари",
+            "Ўйин аксессуарлари",
+            "USB кабеллар",
+            "Хотира карталари",
+            "Селфи моноподлари",
+            "Қулоқчинлар",
+            "Ғилоф",
+            "Ҳимоя ойнаси",
+            "AUX кабеллар"
+          ]
+        },
+  
+        {
+          "id": 1,
+          "name": "ПЛАНШЕТЛАР",
+          "submenu": [
+            "Samsung Планшетлар",
+            "Xiaomi Планшетлар",
+            "Huawei Планшетлар"
+          ]
+        }
+      ]
+    },
+  
+    {
+      "id": 2,
+      "name": "Компьютерная техника",
+      "icon": "https://mini-io-api.texnomart.uz/catalog/category/small-front-icon/10/1d442a2c-9b2a-46f6-95bb-3e8b93ec8022.svg",
+      "submenu": [
+        {
+          "id": 2,
+          "name": "КОМПЮТЕР АКСЕССУАРЛАРИ",
+          "submenu": [
+            "Wi-Fi Роутер",
+            "Батареялар",
+            "Симсиз сичқонча",
+            "Клавиатура ва сичқонча",
+            "Адаптер",
+            "Рюкзаклар",
+            "Hub электр узайтиргич",
+            "Ноутбуклар учун сумкалар",
+            "Компьютер сичқончалари",
+            "Микрофон",
+            "Сичқонча гиламчалари"
+          ]
+        },
+        {
+          "id": 2,
+          "name": "НОУТБУКЛАР",
+          "subname": [
+            "HP ноутбуклари",
+            "Asus ноутбуклари",
+            "Аcер ноутбуклари",
+            "HONOR ноутбуклари",
+            "Macbook",
+            "Lenovo ноутбуклари",
+            "Huawei ноутбуклари"
+          ]
+        },
+        {
+          "id": 2,
+          "name": "ТАШҚИ ҚАТТИҚ ДИСКЛАР",
+          "submenu": [
+            "Ташқи қаттиқ дисклар Toshiba",
+            "Ташқи қаттиқ дисклар Apacer",
+            "Ташқи қаттиқ дисклар Seagate",
+            "Ташқи қаттиқ дисклар Hikvision",
+            "Ташқи қаттиқ дисклар Netac",
+            "Ташқи қаттиқ дисклар SP Armor"
+          ]
+        },
+        {
+          "id": 2,
+          "name": "ФЛЕШ ХОТИРА",
+          "submenu": [
+            "Флеш хотира Apacer",
+            "Флеш хотира Netac",
+            "Флеш хотира Sandisk",
+            "Флеш хотира Lexar",
+            "Флеш хотира Kingston",
+            "Флеш хотира Hoco"
+          ]
+        },
+        {
+          "id": 2,
+          "name": "ПРИНТЕРЛАР ВА КЎП ФУНКЦИЯЛИ ҚУРИЛМАЛАР",
+          "submenu": ["Принтерлар Canon", "Принтерлар HP"]
+        },
+        {
+          "id": 2,
+          "name": "КОМПЮТЕР КОЛОНКАЛАРИ",
+          "submenu": [
+            "Компютер колонкалари Logitech",
+            "Компютер колонкалари Microlab",
+            "Компютер колонкалари 2E"
+          ]
+        },
+        {
+          "id": 2,
+          "name": "РЕЛЕ ВА СТАБИЛИЗАТОРЛАР",
+          "submenu": ["Voltage стабилизаторлар", "AVT стабилизаторлар"]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Техника для дома",
+      "icon": "https://mini-io-api.texnomart.uz/catalog/category/small-front-icon/2/f21971b7-7267-451b-b498-be6f5ba2905f.svg",
+      "submenu": []
+    },
+    {
+      "id": 4,
+      "name": "Офисная техника",
+      "icon": "https://mini-io-api.texnomart.uz/catalog/category/small-front-icon/32/8568525c-31e1-4784-ad5c-0b30a55adbc5.svg",
+      "submenu": []
+    },
+    {
+      "id": 5,
+      "name": "Техника для кухни",
+      "icon": "https://mini-io-api.texnomart.uz/catalog/category/small-front-icon/65/d8f550b1-5587-4949-9da5-fb528a1bee4a.svg",
+      "submenu": []
+    },
+    {
+      "id": 6,
+      "name": "Посуда для дома",
+      "icon": "https://mini-io-api.texnomart.uz/catalog/category/small-front-icon/240/99625898-58f9-4c52-aad7-a0e4f7ee4a20.svg",
+      "submenu": []
+    },
+    {
+      "id": 7,
+      "name": "Товары для авто",
+      "icon": "https://mini-io-api.texnomart.uz/catalog/category/small-front-icon/108/43509e57-a2a4-4672-b89e-9a7902aca70e.svg",
+      "submenu": []
+    },
+    {
+      "id": 8,
+      "name": "Климатическая техника",
+      "icon": "https://mini-io-api.texnomart.uz/catalog/category/small-front-icon/115/d1f614ce-a042-4671-97f5-15493b966c49.svg",
+      "submenu": []
+    },
+    {
+      "id": 9,
+      "name": "Телевизоры и телекарты",
+      "icon": "https://mini-io-api.texnomart.uz/catalog/category/small-front-icon/23/3f6aef7c-53f3-426a-aac5-b2fbc19e1b57.svg",
+      "submenu": []
+    },
+    {
+      "id": 10,
+      "name": "Аудиотехника и Hi-Fi",
+      "icon": "https://mini-io-api.texnomart.uz/catalog/category/small-front-icon/18/85bae73a-83d2-4c3f-a118-63ce178059bb.svg",
+      "submenu": []
+    },
+    {
+      "id": 11,
+      "name": "Красота и здоровье",
+      "icon": "https://mini-io-api.texnomart.uz/catalog/category/small-front-icon/28/f3f20404-6933-40ce-8aac-d0a05c48c72c.svg",
+      "submenu": []
+    },
+    {
+      "id": 12,
+      "name": "Товары для детей",
+      "icon": "https://mini-io-api.texnomart.uz/catalog/category/small-front-icon/164/0ba163ed-4677-4c99-a453-48b57ea854b9.svg",
+      "submenu": []
+    },
+    {
+      "id": 13,
+      "name": "Спорт и увлечение",
+      "icon": "https://mini-io-api.texnomart.uz/catalog/category/small-front-icon/173/8689aa4d-f542-4599-a347-839d2f4649d4.svg",
+      "submenu": []
+    },
+    {
+      "id": 14,
+      "name": "Игровые приставки",
+      "icon": "https://mini-io-api.texnomart.uz/catalog/category/small-front-icon/29/b9e71181-b4bc-4a67-9664-165e3fdcfab4.svg",
+      "submenu": []
+    },
+    {
+      "id": 15,
+      "name": " Товары для дома",
+      "icon": "https://mini-io-api.texnomart.uz/catalog/category/small-front-icon/183/b4db3df2-a334-405e-a18f-1e927c5c5708.svg",
+      "submenu": []
+    },
+    {
+      "id": 16,
+      "name": "Акции и скидки",
+      "icon": "https://mini-io-api.texnomart.uz/catalog/category/small-front-icon/205/32e61ff7-fa01-4ad9-be93-410be0463036.svg",
+      "submenu  ": []
+    }
+  ]
+  

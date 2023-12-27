@@ -1,6 +1,5 @@
-import React from "react";
 import { useState, useEffect } from "react";
-import ProductCarusel from "../Carusel/ProductCarusel/ProductCarusel";
+import ProductCarousel from "../components/Carusel/ProductCarusel/ProductCarusel"
 import axios from "axios";
 function Home() {
   const [datas, setDatas] = useState([]);
@@ -11,18 +10,17 @@ function Home() {
       .then((log) => console.log(log))
       .catch((err) => console.log(err));
   }
+
   useEffect(() => {
     getData();
   }, []);
-
-  console.log(datas?.products);
+  console.log(datas);
   return (
     <div>
-      <ProductCarusel />
+      <ProductCarousel data={datas?.products} />
     </div>
   );
 }
 
 export default Home;
-
 
